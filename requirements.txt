@@ -1,0 +1,10 @@
+unstructured
+openai
+langchain
+selenium
+git+https://github.com/huggingface/transformers
+ipython 
+gTTS
+requests beautifulsoup4
+fastapi
+uvicorn[standard]
