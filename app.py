@@ -1,9 +1,9 @@
 from typing import Union, Dict
 from fastapi import FastAPI
 from pydantic import BaseModel
-from data_collector import Data_Collector()
+from data_collector import Data_Collector
 from questionanswer import Question
-from summarization import Summary_Chain()
+from summarization import Summary_Chain
 from stt import Stt
 from tts import Tts
 import llm_model 
